@@ -1,0 +1,19 @@
+body{
+    background-color: #f4f4f4;
+    color: #555;
+
+    font: normal 16px Arial, Helvetica, sans-serif;
+
+    line-height: 1.6em;
+   }
+
+   .black-font { 
+       color: black}
+
+    .smallfont {
+        font-size: 10px;
+    }
+
+    .black-border {
+        border:5px solid grey
+    }
